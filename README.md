@@ -10,6 +10,4 @@ For the front-end part, some JS frameworks like React and Next Js will be used a
 
 ## Result
 
-[Here](https://nft-collection-dapp-my-app-jbom.vercel.app/) is the webpage which I have created with this code. 
-
-To see on OpenSea the "beautiful" [NFT minted](https://testnets.opensea.io/assets/goerli/0x214364A3B045877418e99ba775F93333fD498493/1) :D
+[Here](https://ico-lw-3-my-app-yzft.vercel.app/) is the webpage which I have created with this code. 
